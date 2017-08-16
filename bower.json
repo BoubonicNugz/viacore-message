@@ -1,19 +1,19 @@
 {
-  "name": "bitcore-message",
-  "main": "./bitcore-message.min.js",
+  "name": "viacore-message",
+  "main": "./viacore-message.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/bitpay/bitcore-message",
+  "homepage": "https://github.com/viacoin/viacore-message",
   "authors": [
     "BitPay"
   ],
-  "description": "Bitcoin Message Verification and Signing for Bitcore",
+  "description": "Viacoin Message Verification and Signing for Bitcore",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "bitcoin",
-    "bitcore",
-    "btc",
+    "viacoin",
+    "viacore",
+    "via",
     "satoshi",
     "message",
     "signing"
