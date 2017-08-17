@@ -30,6 +30,6 @@ To verify a message:
 
 ```javascript
 var address = 'n1ZCYg9YXtB5XCZazLxSmPDa8iwJRZHhGx';
-var signature = 'H/DIn8uA1scAuKLlCx+/9LnAcJtwQQ0PmcPrJUq90aboLv3fH5fFvY+vmbfOSFEtGarznYli6ShPr9RXwY9UrIY=';
+var signature = 'IKdE4ut+leOMMN2CgW3iq71+K6NzjXJLwpMs0ZfFw3IoFzy6J7F06iK5qwQNQQxakUZPLmUlDKh2iG2VA1gygGY=';
 var verified = Message('hello, world').verify(address, signature);
 ```
