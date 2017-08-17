@@ -23,13 +23,13 @@
     "url": "https://github.com/viacoin/viacore-message.git"
   },
   "dependencies": {
-    "viacore-lib": "^0.14.0"
+    "viacore-lib": "^0.14.1"
   },
   "devDependencies": {
-    "viacore-build": "viacoin/viacore-build",
     "brfs": "^1.3.0",
     "chai": "~1.10.0",
-    "gulp": "^3.8.10"
+    "gulp": "^3.8.10",
+    "viacore-build": "github:viacoin/viacore-build"
   },
   "license": "MIT"
 }
